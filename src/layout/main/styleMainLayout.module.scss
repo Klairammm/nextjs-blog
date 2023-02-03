@@ -1,0 +1,12 @@
+.MainLayout {
+  position: relative;
+  margin: 50px 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  header {
+    width: 100%;
+  }
+}
